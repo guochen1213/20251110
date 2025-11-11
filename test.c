@@ -6,7 +6,7 @@ int main()
 	printf("akhvdsjkhjdh");
 
 	sleep(1);
-
+	printf("我又来了");
 	printf("傻了吧");
 	return 0;
 }
