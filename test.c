@@ -6,5 +6,7 @@ int main()
 	printf("akhvdsjkhjdh");
 
 	sleep(1);
+
+	printf("version");
 	return 0;
 }
