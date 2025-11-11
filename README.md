@@ -19,32 +19,64 @@
 
 #插入链接
 
-[百度搜索](https://www.baidu.com"孙贼别点我")
+[百度搜索](https://www.baidu.com "孙贼别点我")
 
 插入图片
 
 ![壁纸截图](c://users//cui88//Desktop//1.jpg"悬停标题")
 
 # 代码片段
-'''c
-        #include <stdio.h>
+```c
+    // C代码示例
+    #include <stdio.h>
     int main(void)
     {
         printf("code\n");
         return 0;
     }
-'''
+```
 
-'''cpp
-'''
-'''python
-'''
-'''java
-'''
-'''java
-'''
-'''bash
-'''
+```cpp
+    // C++代码示例
+    #include <iostream>
+    using namespace std;
+    int main() 
+    {
+        cout << "Hello, C++" << endl;
+        return 0;
+    }
+```
+
+```python
+    # Python代码示例
+    print("Hello, Python")
+```
+
+```java
+    // Java代码示例
+    public class Hello {
+        public static void main(String[] args) 
+        {
+            System.out.println("Hello, Java");
+        }
+    }
+```
+
+```java
+   // Java代码示例
+    public class Hello 
+    {
+        public static void main(String[] args) 
+        {
+            System.out.println("Hello, Java");
+        }
+    }
+```
+
+```bash
+    # Bash命令示例
+    echo "Hello, Bash"
+```
 
 # 列表，无序列表和有序列表
 
